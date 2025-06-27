@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-This project focuses on building a **deep learning model** to identify human emotions (e.g., happy, sad, angry) from speech audio samples. Leveraging advanced machine learning techniques, the model aims to accurately classify emotional states from vocal cues. [cite\_start]This project was developed as a task during my **CodeAlpha Machine Learning Internship**. 
+In this project, you are requested to train a **deep learning model** to recognize human feelings (such as happy, sad, angry) based on audio sampling of speech sounds. The model will use enhanced machine learning to be able to correctly identify the emotional condition based on the sound of the voice. The project was created under the task of my **Code Alpha Machine Learning Internship**.
 
 ## Dataset
 
-The model was trained and evaluated using the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset**. [cite: 15] This comprehensive dataset contains recordings of actors speaking various sentences in different emotional states.
+In training and testing the model, the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset** was employed. This is a complete data that includes recordings of actors uttering different sentences in different moods.
 
 You can download the dataset from Kaggle:
 [RAVDESS Emotional Speech Speech Emotion Recognition](https://www.kaggle.com/api/v1/datasets/download/uwrfkaggler/ravdess-emotional-speech-audio)
@@ -36,7 +36,7 @@ The development process followed a standard Machine Learning and Deep Learning p
 
 ## Key Results
 
-The trained CNN model achieved an impressive **\~[94.7%] accuracy** on the test set. This demonstrates the model's strong capability in distinguishing between various human emotions from speech audio. The classification report further highlighted high precision, recall, and F1-scores across most emotion classes, indicating robust performance.
+The trained CNN model gave a great **~[94.7%] accuracy** on the test set. This exhibits the high potential of the model in identifying different emotions of human beings through audio of speech. The classification report also revealed high precision, recall, and F1-scores in most classes of emotions, which imply good performance of the model.
 
 ## Technologies Used
 

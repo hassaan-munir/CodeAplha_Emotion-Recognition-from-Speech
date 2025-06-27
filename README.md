@@ -1,8 +1,3 @@
------
-
-Theek hai\! Yahan tumhare **Speech Emotion Recognition** project ke liye complete `README.md` text hai. Ismein dataset ka Kaggle link bhi shamil hai. Tum isay copy kar ke GitHub par apne repository mein `README.md` file mein paste kar sakte ho. Bas, `[Apni best accuracy yahan likho, maslan 94.7%]` aur `[Your Name]` ki jagah apni details add karna mat bhoolna.
-
------
 
 # Speech Emotion Recognition (SER)
 

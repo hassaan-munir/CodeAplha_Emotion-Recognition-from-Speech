@@ -60,7 +60,7 @@ To run this project:
     git clone https://github.com/hassaan-munir/CodeAlpha_Speech_Emotion_Recognition.git
     cd CodeAlpha_Speech_Emotion_Recognition
     ```
-    *(Replace `hassaan-munir` with your actual GitHub username)*
+    
 2.  **Download the Dataset:**
       * [ Click Here ](https://www.kaggle.com/api/v1/datasets/download/uwrfkaggler/ravdess-emotional-speech-audio) to Download Data Set
       * Download the dataset (`RAVDESS_Speech_Emotion_Recognition.zip`).

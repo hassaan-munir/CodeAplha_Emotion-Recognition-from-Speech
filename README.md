@@ -1,4 +1,4 @@
-# Speech Emotion Recognition (SER)
+# Emotion Recognition From Speech
 
 
 ## Project Overview

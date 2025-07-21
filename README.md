@@ -1,15 +1,14 @@
 # Emotion Recognition From Speech
 
-
 ## Project Overview
 
-In this project, you are requested to train a **deep learning model** to recognize human feelings (such as happy, sad, angry) based on audio sampling of speech sounds. The model will use enhanced machine learning to be able to correctly identify the emotional condition based on the sound of the voice. The project was created under the task of my **Code Alpha Machine Learning Internship**.
+In this project, you are requested to train a **deep learning model** to recognize human feelings (such as happy, sad, angry) based on audio sampling of speech sounds. The model will use enhanced machine learning to be able to correctly identify the emotional condition based on the sound of the voice.
 
 ## Dataset
 
 In training and testing the model, the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset** was employed. This is a complete data that includes recordings of actors uttering different sentences in different moods.
 
-You can download the dataset from Kaggle:
+You can download the dataset from Kaggle:  
 [RAVDESS Emotional Speech Speech Emotion Recognition](https://www.kaggle.com/api/v1/datasets/download/uwrfkaggler/ravdess-emotional-speech-audio)
 
 ## Methodology
@@ -20,7 +19,7 @@ The development process followed a standard Machine Learning and Deep Learning p
       * The RAVDESS dataset was loaded and processed.
       * Audio files were padded to a consistent length to ensure uniform input for feature extraction.
 2.  **Feature Extraction:**
-      * **Mel-Frequency Cepstral Coefficients (MFCCs)** were extracted from each audio file.MFCCs are powerful features that represent the unique spectral characteristics of speech relevant to emotion.
+      * **Mel-Frequency Cepstral Coefficients (MFCCs)** were extracted from each audio file. MFCCs are powerful features that represent the unique spectral characteristics of speech relevant to emotion.
       * Each audio file was transformed into a fixed-size MFCC feature vector.
 3.  **Data Preparation:**
       * Emotion labels (e.g., 'happy', 'angry') were converted into a numerical, **One-Hot Encoded** format suitable for deep learning classification.
@@ -74,11 +73,6 @@ To run this project:
       * Run the first cell to install all required libraries (`!pip install ...`).
       * Run all subsequent cells sequentially to load data, extract features, build, train, and evaluate the model.
 
-## Internship
-
-This project was completed as a core task during my **Machine Learning Internship at CodeAlpha**. 
 ## Connect with Me
 
-**Muhmmad Hassaan Munir** ([LinkedIn Profile](https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/))
-
------
+**Muhammad Hassaan Munir** [LinkedIn Profile](https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)

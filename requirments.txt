@@ -1,0 +1,5 @@
+gradio
+librosa
+numpy
+tensorflow
+soundfile
